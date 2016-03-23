@@ -2,7 +2,7 @@
   {
     "Name":"helloworld",
     "Description":"Plugin to say hello.",
-    "Url":"file:///repos/obdi-dev-helloworld",
+    "Url":"file:///repos/obdi-helloworld",
     "Depends":[{}],
     "Versions":[
       {
