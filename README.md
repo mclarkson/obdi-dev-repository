@@ -1,4 +1,4 @@
-# obdi-core-repository
+# obdi-dev-repository
 Repository metadata store for Obdi system plugins.
 
 Add `https://github.com/mclarkson/obdi-dev-repository.git` to Repository URLs in the Obdi Admin interface.
