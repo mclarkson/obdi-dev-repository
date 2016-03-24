@@ -1,8 +1,8 @@
 [
   {
-    "Name":"helloworld",
+    "Name":"helloworld-minimal",
     "Description":"Plugin to say hello.",
-    "Url":"https://github.com/mclarkson/obdi-helloworld.git",
+    "Url":"https://github.com/mclarkson/obdi-helloworld-minimal.git",
     "Depends":[{}],
     "Versions":[
       {

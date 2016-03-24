@@ -7,7 +7,7 @@ Further documentation is available from the 'view' links below.
 
 ## Contains
 
-|        Name          |  Description    |        URL                                           |
-|----------------------|-----------------|------------------------------------------------------|
-| helloworld           |  Say hello.     | [view](https://github.com/mclarkson/obdi-helloworld) |
+|        Name          |  Description     |        URL                                                   |
+|----------------------|------------------|--------------------------------------------------------------|
+| helloworld-minimal   |  Minimal plugin. | [view](https://github.com/mclarkson/obdi-helloworld-minimal) |
 
