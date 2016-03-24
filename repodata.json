@@ -2,15 +2,15 @@
   {
     "Name":"helloworld",
     "Description":"Plugin to say hello.",
-    "Url":"file:///repos/obdi-helloworld",
+    "Url":"https://github.com/mclarkson/obdi-helloworld.git",
     "Depends":[{}],
     "Versions":[
       {
-        "Version":"0.1.3",
+        "Version":"0.0.1",
         "CommitSHA":"3e97620a4a8d095b618e819814004549ac581b65",
         "CodeName":"china",
         "Type":"alpha",
-        "ObdiCompatibility":{"Version":"0.1.3","VersionMatchType":"AtLeast"}
+        "ObdiCompatibility":{"Version":"0.2.0","VersionMatchType":"AtLeast"}
       }
     ]
   }
