@@ -16,8 +16,8 @@
   },
   {
     "Name":"helloworld-runscript",
-    "Description":"Plugin to show running a script.",
-    "Url":"ssh://mclarkson@10.11.12.65/CloudStation/Temp/obdi-helloworld-runscript",
+    "Description":"Plugin to demonstrate running a script.",
+    "Url":"https://github.com/mclarkson/obdi-helloworld-runscript.git",
     "Depends":[{}],
     "Versions":[
       {
