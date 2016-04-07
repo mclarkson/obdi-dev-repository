@@ -9,6 +9,7 @@ Further documentation is available from the 'view' links below.
 
 |        Name          |  Description     |        URL                                                   |
 |----------------------|------------------|--------------------------------------------------------------|
-| helloworld-minimal   |  Minimal plugin. | [view](https://github.com/mclarkson/obdi-helloworld-minimal) |
-| helloworld-runscript |  Minimal plugin to demonstrate running a script on an Obdi worker. | [view](https://github.com/mclarkson/obdi-helloworld-runscript) |
+| helloworld-minimal   |  Basic plugin. | [view](https://github.com/mclarkson/obdi-helloworld-minimal) |
+| helloworld-runscript |  Plugin to demonstrate running a script on an Obdi worker. | [view](https://github.com/mclarkson/obdi-helloworld-runscript) |
+| helloworld-localdb |  Plugin to demonstrate crud on a private db. | [view](https://github.com/mclarkson/obdi-helloworld-localdb) |
 
