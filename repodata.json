@@ -28,5 +28,20 @@
         "ObdiCompatibility":{"Version":"0.2.0","VersionMatchType":"AtLeast"}
       }
     ]
+  },
+  {
+    "Name":"helloworld-localdb",
+    "Description":"Plugin to demonstrate using a private sqlite database.",
+    "Url":"https://github.com/mclarkson/obdi-helloworld-localdb.git",
+    "Depends":[{}],
+    "Versions":[
+      {
+        "Version":"0.0.1",
+        "CommitSHA":"3e97620a4a8d095b618e819814004549ac581b65",
+        "CodeName":"china",
+        "Type":"alpha",
+        "ObdiCompatibility":{"Version":"0.2.0","VersionMatchType":"AtLeast"}
+      }
+    ]
   }
 ]
