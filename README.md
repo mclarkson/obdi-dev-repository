@@ -12,5 +12,5 @@ Further documentation is available from the 'view' links below.
 | helloworld           |  The base of all helloworld plugins that creates a top level menu entry. | [view](https://github.com/mclarkson/obdi-helloworld) |
 | helloworld-minimal   |  Basic plugin with buttons and a modal dialog box. | [view](https://github.com/mclarkson/obdi-helloworld-minimal) |
 | helloworld-runscript |  Plugin to demonstrate running a script on an Obdi worker. | [view](https://github.com/mclarkson/obdi-helloworld-runscript) |
-| helloworld-localdb |  Plugin to demonstrate crud on a private db. | [view](https://github.com/mclarkson/obdi-helloworld-localdb) |
+| helloworld-localdb |  Plugin to demonstrate CRUD on a private db. | [view](https://github.com/mclarkson/obdi-helloworld-localdb) |
 
